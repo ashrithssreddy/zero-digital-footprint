@@ -7,24 +7,24 @@ With the right tools and strategies, staying private becomes less about avoidanc
 
 ## Contents
 
-- **[Browser](Browser.md):** How to prevent URL tracking, manage cookies, and use privacy-focused browsers.
-- **[Search Engine](Search_Engine.md):** Pseudonymous searching and escaping profiling.
-- **[Email](Email.md):** Encrypted and anonymous communication tools.
-- **[Messaging Apps](Messaging_Apps.md):** Metadata-free and secure messaging.
-- **[Ecommerce](Ecommerce.md):** Pseudonymous online shopping strategies.
-- **[Payments](Payments.md):** Privacy-first payment methods, including cryptocurrencies.
-- **[Social Media](Social_Media.md):** Minimizing footprints and avoiding tracking.
-- **[File Storage](File_Storage.md):** Secure cloud storage and file-sharing tools.
-- **[Networks](Networks.md):** Tips for VPNs, Tor, and GPS spoofing.
-- **[Hardware](Hardware.md):** Protecting smart devices and metadata in photos.
-- **[Digital Legacy](Digital_Legacy.md):** Managing your digital presence posthumously.
-- **[Device Privacy](Device_Privacy.md):** Securing devices from data leaks.
-- **[Location Privacy](Location_Privacy.md):** Disabling location tracking and GPS-related vulnerabilities.
-- **[Biometric Privacy](Biometric_Privacy.md):** Protecting biometric data from misuse.
-- **[Pseudoanonymous Accounts](Psuedoanonymous_Accounts.md):** Maintaining anonymity across platforms.
-- **[Data Compliance](Data_Compliance.md):** Understanding your rights and legal protections.
-- **[Data Deletion](Data_Deletion.md):** Tools and methods to erase your online presence.
-- **[Password Managers](Password_Managers.md):** Leveraging 2FA and secure password storage.
-- **[Privacy Best Practices](Privacy_Best_Practices.md):** Actionable, everyday privacy tips.
+- **[Biometric Privacy](docs/Biometric_Privacy.md):** Protecting biometric data from misuse.
+- **[Browser](docs/Browser.md):** How to prevent URL tracking, manage cookies, and use privacy-focused browsers.
+- **[Data Compliance](docs/Data_Compliance.md):** Understanding your rights and legal protections.
+- **[Data Deletion](docs/Data_Deletion.md):** Tools and methods to erase your online presence.
+- **[Device Privacy](docs/Device_Privacy.md):** Securing devices from data leaks.
+- **[Digital Legacy](docs/Digital_Legacy.md):** Managing your digital presence posthumously.
+- **[Ecommerce](docs/Ecommerce.md):** Pseudonymous online shopping strategies.
+- **[Email](docs/Email.md):** Encrypted and anonymous communication tools.
+- **[File Storage](docs/File_Storage.md):** Secure cloud storage and file-sharing tools.
+- **[Hardware](docs/Hardware.md):** Protecting smart devices and metadata in photos.
+- **[Location Privacy](docs/Location_Privacy.md):** Disabling location tracking and GPS-related vulnerabilities.
+- **[Messaging Apps](docs/Messaging_Apps.md):** Metadata-free and secure messaging.
+- **[Networks](docs/Networks.md):** Tips for VPNs, Tor, and GPS spoofing.
+- **[Password Managers](docs/Password_Managers.md):** Leveraging 2FA and secure password storage.
+- **[Payments](docs/Payments.md):** Privacy-first payment methods, including cryptocurrencies.
+- **[Privacy Best Practices](docs/Privacy_Best_Practices.md):** Actionable, everyday privacy tips.
+- **[Pseudoanonymous Accounts](docs/Psuedoanonymous_Accounts.md):** Maintaining anonymity across platforms.
+- **[Search Engine](docs/Search_Engine.md):** Pseudonymous searching and escaping profiling.
+- **[Social Media](docs/Social_Media.md):** Minimizing footprints and avoiding tracking.
 
 ---
