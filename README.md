@@ -21,6 +21,7 @@ With the right tools and strategies, staying private becomes less about avoidanc
 - **[Messaging Apps](docs/Messaging_Apps.md):** Metadata-free and secure messaging.
 - **[Networks](docs/Networks.md):** Tips for VPNs, Tor, and GPS spoofing.
 - **[Password Managers](docs/Password_Managers.md):** Leveraging 2FA and secure password storage.
+- **[Password Managers](docs/Phone_Numbers.md):** Strategies for safeguarding your phone number from being linked to your identity.
 - **[Payments](docs/Payments.md):** Privacy-first payment methods, including cryptocurrencies.
 - **[Privacy Best Practices](docs/Privacy_Best_Practices.md):** Actionable, everyday privacy tips.
 - **[Pseudoanonymous Accounts](docs/Psuedoanonymous_Accounts.md):** Maintaining anonymity across platforms.
