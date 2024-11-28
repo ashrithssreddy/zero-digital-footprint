@@ -19,5 +19,12 @@ With the right tools and strategies, staying private becomes less about avoidanc
 - **[Hardware](Hardware.md):** Protecting smart devices and metadata in photos.
 - **[Digital Legacy](Digital_Legacy.md):** Managing your digital presence posthumously.
 - **[Device Privacy](Device_Privacy.md):** Securing devices from data leaks.
-- **[Location Privacy](Location_Privacy.md):** Dis
+- **[Location Privacy](Location_Privacy.md):** Disabling location tracking and GPS-related vulnerabilities.
+- **[Biometric Privacy](Biometric_Privacy.md):** Protecting biometric data from misuse.
+- **[Pseudoanonymous Accounts](Psuedoanonymous_Accounts.md):** Maintaining anonymity across platforms.
+- **[Data Compliance](Data_Compliance.md):** Understanding your rights and legal protections.
+- **[Data Deletion](Data_Deletion.md):** Tools and methods to erase your online presence.
+- **[Password Managers](Password_Managers.md):** Leveraging 2FA and secure password storage.
+- **[Privacy Best Practices](Privacy_Best_Practices.md):** Actionable, everyday privacy tips.
+
 ---
