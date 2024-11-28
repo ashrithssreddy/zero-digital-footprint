@@ -48,5 +48,20 @@ Consumer data breaches have become a pressing concern in the digital age, with m
 - **Read More:** [CyberNews Article](https://cybernews.com/security/brazil-data-leak-cpf-card/)
 
 ---
+## Additional Resources on Data Breaches
+
+Explore more major data leaks and their impact through these resources:
+
+1. **Historical Data Breach Statistics:** [Varonis Blog](https://www.varonis.com/blog/data-breach-statistics#historical-data-breach-statistics)  
+   A comprehensive guide to data breach statistics over the years.
+
+2. **Category of Data Breaches in the United States:** [Wikipedia](https://en.wikipedia.org/wiki/Category:Data_breaches_in_the_United_States)  
+   A detailed list of significant breaches in the U.S.
+
+3. **General Data Breaches Overview:** [Wikipedia](https://en.wikipedia.org/wiki/Category:Data_breaches)  
+   Global examples of data breaches categorized by type and scope.
+
+4. **Social Media Commentary on Data Breaches:** [Lyn Alden's Tweet](https://x.com/lynaldencontact/status/1586564912607805440)  
+   A thought-provoking discussion on data security and breaches.
 
 These breaches, as highlighted by Lyn Alden, emphasize the critical need for robust online privacy measures and data security practices. With personal information increasingly at risk, both individuals and organizations must take proactive steps to safeguard sensitive data.
