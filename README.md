@@ -1,4 +1,4 @@
-# online-privacy-blog
+# Zero Digital Footprint
 This repository is for individuals who care about controlling their online presence and safeguarding their personal boundaries in the digital age. It’s a curated guide to staying private and secure while navigating the vast, interconnected world of the internet.
 
 ## Motivation
