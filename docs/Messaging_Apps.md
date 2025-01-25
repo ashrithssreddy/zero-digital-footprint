@@ -29,7 +29,7 @@ Mainstream messaging apps often collect user data, analyze metadata, and store c
 ## Privacy-Focused Messaging Apps
 
 ### Beginner: Basic Privacy Improvements
-#### **1. Signal** ([Website](https://signal.org/))
+#### **[Signal](https://signal.org/)**
 - **Features**:
   - End-to-end encryption for all messages, voice, and video calls.
   - Collects minimal metadata (e.g., only your phone number).
@@ -37,7 +37,7 @@ Mainstream messaging apps often collect user data, analyze metadata, and store c
 - **Why Use It**:
   - A straightforward upgrade for users coming from WhatsApp or Facebook Messenger.
 
-#### **2. Session** ([Website](https://getsession.org/))
+#### **[Session](https://getsession.org/)**
 - **Features**:
   - No phone number or email required for sign-up.
   - Decentralized infrastructure for greater privacy.
@@ -47,7 +47,7 @@ Mainstream messaging apps often collect user data, analyze metadata, and store c
 ---
 
 ### Intermediate: Stronger Privacy Practices
-#### **1. Threema** ([Website](https://threema.ch/))
+#### **[Threema](https://threema.ch/)**
 - **Features**:
   - End-to-end encryption for all communications.
   - No phone number or email required; assigns a random ID.
@@ -55,14 +55,14 @@ Mainstream messaging apps often collect user data, analyze metadata, and store c
 - **Why Use It**:
   - Great for metadata minimization and anonymity.
 
-#### **2. Wire** ([Website](https://wire.com/))
+#### **[Wire](https://wire.com/)**
 - **Features**:
   - End-to-end encryption for messages, calls, and file sharing.
   - GDPR-compliant and open-source.
 - **Why Use It**:
   - Suitable for secure professional collaboration.
 
-#### **3. Matrix (Element Client)** ([Website](https://element.io/))
+#### **[Matrix (Element Client)](https://element.io/)**
 - **Features**:
   - Decentralized, end-to-end encrypted messaging protocol.
   - Supports self-hosting for maximum control.
@@ -72,14 +72,14 @@ Mainstream messaging apps often collect user data, analyze metadata, and store c
 ---
 
 ### Advanced: Maximum Privacy
-#### **1. Briar** ([Website](https://briarproject.org/))
+#### **[Briar](https://briarproject.org/)**
 - **Features**:
   - Peer-to-peer messaging using Bluetooth, Wi-Fi, or Tor.
   - No central servers; completely decentralized.
 - **Why Use It**:
   - Designed for use in areas with unreliable internet or where privacy is critical.
 
-#### **2. Cwtch** ([Website](https://cwtch.im/))
+#### **[Cwtch](https://cwtch.im/)**
 - **Features**:
   - Decentralized, anonymous messaging using Tor.
   - Does not rely on centralized servers for storage or delivery.
