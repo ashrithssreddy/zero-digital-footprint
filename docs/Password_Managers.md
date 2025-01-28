@@ -38,10 +38,10 @@ Password managers are dedicated tools for generating, storing, and autofilling p
 - **Secure Sharing**: Share credentials with others without revealing the actual password.
 
 #### Examples:
-- **1Password**
-- **LastPass**
-- **Dashlane**
-- **Bitwarden** (open source, end-to-end encrypted, cross-platform, and free)
+- [**1Password**](https://1password.com)
+- [**LastPass**](https://www.lastpass.com)
+- [**Dashlane**](https://www.dashlane.com)
+- [**Bitwarden**](https://bitwarden.com) (open source, end-to-end encrypted, cross-platform, and free)
 
 ### 2. Two-Factor Authentication (2FA)
 Enhancing account security by requiring a second verification step, such as a code sent to your phone or a biometric scan.
