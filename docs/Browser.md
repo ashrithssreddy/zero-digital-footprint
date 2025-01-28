@@ -1,7 +1,8 @@
-# Browser
+# Browser Privacy and Security
+
 ## The Status Quo and the Problem
 
-The modern internet relies heavily on data collection, often at the expense of user privacy. Most mainstream browsers, such as Google Chrome and Safari, are designed to optimize user experience and provide fast, feature-rich browsing. However, they also enable extensive tracking, profiling, and data harvesting. This is achieved through cookies, fingerprinting, and third-party scripts embedded in websites. Despite their sleek interfaces and integration with ecosystems, these browsers contribute to a broader surveillance-based business model.
+The modern internet relies heavily on data collection, often at the expense of user privacy. Most mainstream browsers, such as Google [Chrome](https://www.google.com/chrome) and Safari, are designed to optimize user experience and provide fast, feature-rich browsing. However, they also enable extensive tracking, profiling, and data harvesting. This is achieved through cookies, fingerprinting, and third-party scripts embedded in websites. Despite their sleek interfaces and integration with ecosystems, these browsers contribute to a broader surveillance-based business model.
 
 ### Key Issues:
 
@@ -17,7 +18,7 @@ Several privacy-focused browsers offer better protection against tracking and da
 
 ### Recommended Privacy Browsers:
 
-| Feature/Criteria                      | **Brave (Recommended)**               | DuckDuckGo Browser               | Mozilla Firefox                             | Tor Browser                           | Chrome              |
+| Feature/Criteria                      | [**Brave (Recommended)**](https://brave.com)               | [DuckDuckGo Browser](https://duckduckgo.com/app)               | [Mozilla Firefox](https://www.mozilla.org/firefox)                             | [Tor Browser](https://www.torproject.org)                           | Chrome              |
 | ------------------------------------- | ------------------------------------- | -------------------------------- | ------------------------------------------- | ------------------------------------- | ------------------- |
 | **Ad and Tracker Blocking**           | Built-in blocker for ads and trackers | Blocks most third-party trackers | Enhanced Tracking Protection (customizable) | Built-in blocker and Tor routing      | Requires extensions |
 | **Fingerprinting Protection**         | Strong protections, with Shields      | Basic protections                | Extensions like uBlock Origin needed        | Advanced protection through anonymity | Minimal protection  |
