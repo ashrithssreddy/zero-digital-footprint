@@ -96,3 +96,14 @@ When organizing passwords, follow this recommended strategy for optimal security
   - **Proton Drive**:
     - Scanned credit or debit cards
     - Encrypted passports or driver’s licenses
+
+## [Statistics of Bad Passwords](https://www.amazon.com/Art-Invisibility-Worlds-Teaches-Brother/dp/0316380504)
+
+- **Weak Passwords**: Common passwords like "password" and "123456" are still widely used, making accounts highly susceptible to hacking.
+- **Data Breaches**: Weak passwords contribute to over 80% of organizational data breaches.
+- **Password Reuse**: Approximately 84% of individuals reuse passwords across multiple sites, increasing vulnerability if one account is compromised.
+- **Password Cracking Speed**: 70% of weak passwords can be cracked in less than one second using simple brute force attacks.
+- **Data Breach Costs**: In the U.S., the average cost of a data breach was $8.64 million in 2020.
+- **Productivity Losses**: Organizations lose approximately $480 in productivity per employee each year due to time spent on password-related issues.
+
+These statistics underscore the importance of adopting robust password practices and utilizing tools like password managers to enhance security.
