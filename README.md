@@ -9,25 +9,25 @@ With the right tools and strategies, staying private becomes less about avoidanc
 
 | **Topic**                       | **Description**                                                                 |
 |----------------------------------|---------------------------------------------------------------------------------|
-| [Biometric Privacy](docs/Biometric_Privacy.md) | [Migrating] Protecting biometric data from misuse .                                         |
+| [Biometric Privacy](docs/Biometric_Privacy.md) | ![Coming Soon](https://img.shields.io/badge/status-coming%20soon-lightgrey) Protecting biometric data from misuse .                                         |
 | [Browser](docs/Browser.md)      | How to prevent URL tracking, manage cookies, and use privacy-focused browsers.  |
-| [Data Compliance](docs/Data_Compliance.md) | [Migrating] Understanding your rights and legal protections.                              |
+| [Data Compliance](docs/Data_Compliance.md) | ![Coming Soon](https://img.shields.io/badge/status-coming%20soon-lightgrey) Understanding your rights and legal protections.                              |
 | [Data Deletion](docs/Data_Deletion.md) | Tools and methods to erase your online presence.                               |
-| [Device Privacy](docs/Device_Privacy.md) | [Migrating] Securing devices from data leaks.                                             |
-| [Digital Legacy](docs/Digital_Legacy.md) | [Migrating] Managing your digital presence posthumously.                                  |
-| [Ecommerce](docs/Ecommerce.md)  | [Migrating] Pseudonymous online shopping strategies.                                       |
+| [Device Privacy](docs/Device_Privacy.md) | ![Coming Soon](https://img.shields.io/badge/status-coming%20soon-lightgrey) Securing devices from data leaks.                                             |
+| [Digital Legacy](docs/Digital_Legacy.md) | ![Coming Soon](https://img.shields.io/badge/status-coming%20soon-lightgrey) Managing your digital presence posthumously.                                  |
+| [Ecommerce](docs/Ecommerce.md)  | ![Coming Soon](https://img.shields.io/badge/status-coming%20soon-lightgrey) Pseudonymous online shopping strategies.                                       |
 | [Email](docs/Email.md)          | Encrypted and anonymous communication tools.                                   |
 | [File Storage](docs/File_Storage.md) | Secure cloud storage and file-sharing tools.                                  |
-| [Hardware](docs/Hardware.md)    | [Migrating] Protecting smart devices and metadata in photos.                               |
+| [Hardware](docs/Hardware.md)    | ![Coming Soon](https://img.shields.io/badge/status-coming%20soon-lightgrey) Protecting smart devices and metadata in photos.                               |
 | [Location Privacy](docs/Location_Privacy.md) | Disabling location tracking and GPS-related vulnerabilities.                  |
 | [Messaging Apps](docs/Messaging_Apps.md) | Metadata-free and secure messaging.                                          |
-| [Networks](docs/Networks.md)    | [Migrating] Tips for VPNs, Tor, and GPS spoofing.                                          |
+| [Networks](docs/Networks.md)    | ![Coming Soon](https://img.shields.io/badge/status-coming%20soon-lightgrey) Tips for VPNs, Tor, and GPS spoofing.                                          |
 | [Password Managers](docs/Password_Managers.md) | Leveraging 2FA and secure password storage.                                   |
 | [Phone Numbers](docs/Phone_Numbers.md) | Strategies for safeguarding your phone number from being linked to your identity. |
 | [Payments](docs/Payments.md)    | Privacy-first payment methods, including cryptocurrencies.                     |
-| [Privacy Best Practices](docs/Privacy_Best_Practices.md) | [Migrating] Actionable, everyday privacy tips.                                           |
+| [Privacy Best Practices](docs/Privacy_Best_Practices.md) | ![Coming Soon](https://img.shields.io/badge/status-coming%20soon-lightgrey) Actionable, everyday privacy tips.                                           |
 | [Pseudoanonymous Accounts](docs/Psuedoanonymous_Accounts.md) | Maintaining anonymity across platforms.                                      |
 | [Search Engine](docs/Search_Engine.md) | Pseudonymous searching and escaping profiling.                                |
-| [Social Media](docs/Social_Media.md) | [Migrating] Minimizing footprints and avoiding tracking.                                  |
+| [Social Media](docs/Social_Media.md) | ![Coming Soon](https://img.shields.io/badge/status-coming%20soon-lightgrey) Minimizing footprints and avoiding tracking.                                  |
 
 ---
